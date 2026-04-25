@@ -1,4 +1,4 @@
-# Meeting Room Guidelines — Vauban U1 / Arras
+# Meeting Room Guidelines 
 
 > **Room:** Vauban U1 — i've made this procedure during my internship 
 > **Equipment:** Microsoft Outlook + Teams · Poly dock station · iiyama display
