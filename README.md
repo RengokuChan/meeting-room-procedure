@@ -1,6 +1,6 @@
 # Meeting Room Guidelines — Vauban U1 / Arras
 
-> **Room:** Vauban U1 — EnerSys SARL, Arras site
+> **Room:** Vauban U1 — i've made this procedure during my internship 
 > **Equipment:** Microsoft Outlook + Teams · Poly dock station · iiyama display
 
 ---
